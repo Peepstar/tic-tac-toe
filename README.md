@@ -40,10 +40,9 @@
   <p align="center">
     Easy to play Java based Tic-tac-toe game
     <br />
-    <a href="https://github.com/Peepstar/tic-tac-toe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Peepstar/tic-tac-toe/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Peepstar/tic-tac-toe">View Demo</a>
     ·
     <a href="https://github.com/Peepstar/tic-tac-toe/issues">Report Bug</a>
     ·
@@ -59,9 +58,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -111,36 +107,23 @@ Enjoy a clean-coded, terminal-based experience that's easy to play. My engaging 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This guide will help you set up and run the Tic-Tac-Toe game locally on your machine.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Ensure you have the following installed:
 
-### Installation
+- Java Development Kit (JDK)
+- Git
+- (Optional) IntelliJ IDEA or your preferred Java IDE
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
+### Running the Game
+
+#### From CMD/Bash (or Terminal on Unix-like systems)
+
+1. Clone the repository (if you haven't already)
+   ```bash
    git clone https://github.com/Peepstar/tic-tac-toe.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -148,20 +131,6 @@ This is an example of how to list things you need to use the software and how to
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/Peepstar/tic-tac-toe/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,13 +154,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -205,14 +167,6 @@ Project Link: [https://github.com/Peepstar/tic-tac-toe](https://github.com/Peeps
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
