@@ -84,26 +84,27 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <img src="https://github.com/Peepstar/tic-tac-toe/assets/75828460/1e990594-a3ed-4674-8482-71432eaa0436" alt="tic-tac-toe-screenshot](https://github.com/Peepstar/tic-tac-toe/assets/75828460/59bb0843-ac3f-4137-94d6-f77c77052ab2">
+</p>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Peepstar`, `tic-tac-toe`, `twitter_handle`, `julian-peña-java`, `hotmail`, `julianpr8`, `Tic-Tac-Toe`, `Easy to play Java based Tic-tac-toe game`
+<p>
+Enjoy a clean-coded, terminal-based experience that's easy to play. My engaging and user-friendly design  enhances playability. Have fun playing!
+</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<h3>Features:</h3>
+<ul>
+  <li>Easy-to-play Java implementation</li>
+  <li>Clean-coded for a seamless experience</li>
+  <li>Terminal-based for simplicity</li>
+</ul>
+
+<p>Feel free to clone the repository and start playing! Contributions are welcome.</p>
 
 
 
-### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -230,19 +231,4 @@ Project Link: [https://github.com/Peepstar/tic-tac-toe](https://github.com/Peeps
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/julian-peña-java
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+
