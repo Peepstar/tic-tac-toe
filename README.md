@@ -1,12 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
 
@@ -125,14 +117,55 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/Peepstar/tic-tac-toe.git
 
+2. Navigate to the project directory
+   ```bash
+   cd tic-tac-toe
+
+3. Compile the Java code
+   ```bash
+   javac RunGame.java
+   
+4. Start the game   
+   ```bash
+   java RunGame
+   
+#### From IntelliJ IDEA or preferred Java IDE
+
+1. From GitHub click on the "Code" button and select "Download ZIP".
+2. Extract the ZIP archive to your desired location.
+3. Open your preferred IDE.
+4. Select Open
+5. Navigate to the extracted project directory and select it.
+6. Locate RunGame.java in the project, run it and play! 
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+#### Make Your Move:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Enter a number between 1 and 9 to mark the corresponding box on the game board.
+The game alternates turns between "X" and "O."
+
+#### Winning the Game:
+
+The game ends when a player achieves a winning combination.
+A winner will be declared, and the game will display the victorious player.
+
+#### Tied Result (Empate):
+
+If all the boxes are marked, and no player has won, the game declares a tied result (empate).
+
+#### Continue Playing:
+
+After each game, you can choose to continue playing by entering "1" when prompted.
+To exit the game, press any other key.
+
+### NOTE
+
+**Invalid data, including non-numeric input, numbers below 1 or above 9, and attempting to mark an already filled box, is not accepted. The game will prompt you to re-enter valid data.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -154,12 +187,10 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - julianpr8@hotmail.com
+Julian David Peña Rojas  - julianpr8@hotmail.com
 
 Project Link: [https://github.com/Peepstar/tic-tac-toe](https://github.com/Peepstar/tic-tac-toe)
 
@@ -184,5 +215,4 @@ Project Link: [https://github.com/Peepstar/tic-tac-toe](https://github.com/Peeps
 [license-url]: https://github.com/Peepstar/tic-tac-toe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/julian-peña-java
-[product-screenshot]: images/screenshot.png
 
