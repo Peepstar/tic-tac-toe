@@ -14,7 +14,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -25,6 +24,8 @@
   <a href="https://github.com/Peepstar/tic-tac-toe">
     <img src="https://github.com/Peepstar/tic-tac-toe/assets/75828460/357dec3f-3589-468d-a18a-c858091313f7" alt="Logo" width="80" height="80">
   </a>
+
+
 
 
 <h3 align="center">Tic-Tac-Toe</h3>
@@ -55,15 +56,11 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#running-the-game">Running the Game</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -73,7 +70,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/Peepstar/tic-tac-toe/assets/75828460/1e990594-a3ed-4674-8482-71432eaa0436" alt="tic-tac-toe-screenshot](https://github.com/Peepstar/tic-tac-toe/assets/75828460/59bb0843-ac3f-4137-94d6-f77c77052ab2">
+  <img src="https://github.com/Peepstar/tic-tac-toe/assets/75828460/0080cf03-8d16-4cf0-be1d-19cb4956dd10">
 </p>
 
 <p>
@@ -88,11 +85,6 @@ Enjoy a clean-coded, terminal-based experience that's easy to play. My engaging 
 </ul>
 
 <p>Feel free to clone the repository and start playing! Contributions are welcome.</p>
-
-
-
-
-
 
 
 
@@ -145,11 +137,15 @@ Ensure you have the following installed:
 
 Enter a number between 1 and 9 to mark the corresponding box on the game board.
 The game alternates turns between "X" and "O."
+![tic-tac-toe-move](https://github.com/Peepstar/tic-tac-toe/assets/75828460/c61ec644-ea8f-45be-a5cb-add468647d39)
+
 
 #### Winning the Game:
 
 The game ends when a player achieves a winning combination.
 A winner will be declared, and the game will display the victorious player.
+![tic-tac-toe-winner](https://github.com/Peepstar/tic-tac-toe/assets/75828460/5d8d5bcb-3c7d-4b11-9fd8-cda5c9b2eaf3)
+
 
 #### Tied Result (Empate):
 
@@ -159,29 +155,17 @@ If all the boxes are marked, and no player has won, the game declares a tied res
 
 After each game, you can choose to continue playing by entering "1" when prompted.
 To exit the game, press any other key.
+![tic-tac-toe-empate](https://github.com/Peepstar/tic-tac-toe/assets/75828460/981367b0-9caa-4eca-ab7b-bdbe71b571e0)
 
-### NOTE
+
+#### NOTE
 
 **Invalid data, including non-numeric input, numbers below 1 or above 9, and attempting to mark an already filled box, is not accepted. The game will prompt you to re-enter valid data.**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![tic-tac-toe-exceptions](https://github.com/Peepstar/tic-tac-toe/assets/75828460/04b5323b-2d61-412f-b7dc-9fede1c31f28)
 
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,8 +183,6 @@ Project Link: [https://github.com/Peepstar/tic-tac-toe](https://github.com/Peeps
 
 
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Peepstar/tic-tac-toe.svg?style=for-the-badge
@@ -211,8 +193,6 @@ Project Link: [https://github.com/Peepstar/tic-tac-toe](https://github.com/Peeps
 [stars-url]: https://github.com/Peepstar/tic-tac-toe/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Peepstar/tic-tac-toe.svg?style=for-the-badge
 [issues-url]: https://github.com/Peepstar/tic-tac-toe/issues
-[license-shield]: https://img.shields.io/github/license/Peepstar/tic-tac-toe.svg?style=for-the-badge
-[license-url]: https://github.com/Peepstar/tic-tac-toe/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/julian-peña-java
 
